@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.0"
+  }
+}
