@@ -1,5 +1,6 @@
 # Ethereum private key to JSON keystore generator
 
+## NOTICE: I've developed UI for this procedure. Check out `Keys Pipeline` section at https://eth-toolbox.com/
 ## WARNING: The default password (an empty string "") change is possible only in source code.
 
 ## Usage
